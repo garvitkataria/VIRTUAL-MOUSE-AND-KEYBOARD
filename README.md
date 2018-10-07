@@ -23,9 +23,11 @@ The user would have specified colour markers on his/her fingers and there will b
 <h3>Drawback:</h3>
 
 The user would have to wear the colour markers on finger tips every time he wants to use the system.
-
-
-
+<br><br><br><br>
+![Alt text](https://github.com/garvitkataria/VIRTUAL-MOUSE-AND-KEYBOARD/blob/master/2%20.PNG?raw=true "Title")
+<br><br>
+![Alt text](https://github.com/garvitkataria/VIRTUAL-MOUSE-AND-KEYBOARD/blob/master/1%20.PNG?raw=true "Title")
+<br><br><br><br>
 <h3>References:</h3>
 
 https://www.ripublication.com/ijaer16/ijaerv11n8_69.pdf 
